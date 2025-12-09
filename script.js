@@ -4,7 +4,8 @@ function AddData(){
     const password=document.getElementById("password").value.trim();
 
 
-    const DataPacket={
+    const DataPacket={ 
+        
         webSite:site,
         username:username,
         password:password
