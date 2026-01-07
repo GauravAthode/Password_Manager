@@ -19,10 +19,8 @@ It allows users to store website credentials securely in the browser using **loc
 
 - **HTML5**
 - **Bootstrap 5**
-- **JavaScript (Vanilla JS)**
+- **JavaScript **
 - **Browser LocalStorage**
 
 ---
-
-## 📂 Project Structure
 
